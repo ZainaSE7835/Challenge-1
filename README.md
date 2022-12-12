@@ -7,7 +7,7 @@ The aim of this project was to refactor an existing website to improve its acces
 
 ## Problems solved:
 
--Replaced <div> with semantic HTML elements to make the webpage more informative and easier to interpret by users and wed developers
+-Replaced div tags with semantic HTML elements to make the webpage more informative and easier to interpret by users and wed developers
 -Added alt "" or aria-label to images as appropriate for image description for disabled people that use screen readers or if image cannot be displayed
 -Added a concise and descriptive webpage title so that its easy to find by users
 
